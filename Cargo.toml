@@ -3,5 +3,8 @@ name = "monarch_sim"
 version = "0.1.0"
 edition = "2021"
 authors = ["Alex Horridge <alex@geotechresearch.com>"]
+description = "A framework for complex systems modelling"
+license = "GPL-3.0-only"
+license-file = "LICENSE.md"
 
 [dependencies]
